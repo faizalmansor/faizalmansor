@@ -1,0 +1,19 @@
+{
+  "state": [
+    {
+      "id":"1",
+      "name":"Terengganu"
+      
+    },
+    {
+      "id":"2",
+      "name":"Perak"
+      
+    },
+    {
+      "id":"3",
+      "name":"Perlis"
+      
+    }
+  ]
+}
