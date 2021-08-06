@@ -1,0 +1,19 @@
+{
+  "cities": [
+    {
+      "id":"1",
+      "state_id": "1",
+      "name": "Kemaman"
+    },
+    {
+      "id":"2",
+      "state_id": "1",
+      "name": "Dungun"
+    },
+    {
+      "id":"3",
+      "state_id": "1",
+      "name": "Paka"
+    }
+  ]
+}
